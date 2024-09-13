@@ -1,0 +1,13 @@
+D:\Downloads\SOAP_ALTEK\src\main\java\com\viettel\config\WebServiceConfig.java
+D:\Downloads\SOAP_ALTEK\src\main\java\com\viettel\endpoint\EmployeeEndPoint.java
+D:\Downloads\SOAP_ALTEK\src\main\java\com\viettel\entity\Employee.java
+D:\Downloads\SOAP_ALTEK\src\main\java\com\viettel\repository\EmployeeRepository.java
+D:\Downloads\SOAP_ALTEK\src\main\java\com\viettel\service\EmployeeService.java
+D:\Downloads\SOAP_ALTEK\src\main\java\com\viettel\SoapAltekApplication.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\EmployeeInfo.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\GetEmployeeByIdRequest.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\GetEmployeeResponse.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\GetMessageById.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\GetMessageResponse.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\ObjectFactory.java
+D:\Downloads\SOAP_ALTEK\target\generated-sources\jaxb\com\tranchien\altek\package-info.java
