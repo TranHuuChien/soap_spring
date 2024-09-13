@@ -30,6 +30,7 @@ public class WebServiceConfig extends WsConfigurerAdapter {
         DefaultWsdl11Definition wsdl11Definition = new DefaultWsdl11Definition();
         wsdl11Definition.setPortTypeName("wsHttp");
         wsdl11Definition.setLocationUri("/ws");
+
         wsdl11Definition.setTargetNamespace("http://altek.tranchien.com");
         wsdl11Definition.setSchema(employeeSchema);
         return wsdl11Definition;
